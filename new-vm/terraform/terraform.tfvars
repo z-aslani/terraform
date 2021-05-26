@@ -1,10 +1,10 @@
-vsphere_user     = "arshia@vcsa.pegah.tech"
-vsphere_password = "P3g@hTech1"
+vsphere_user     = "USER"
+vsphere_password = "PASSWORD"
 
 ### options: centos,ubuntu
 OS         = "ubuntu"
 vm_name    = "final-test"
-private_ip = "172.16.8.10"
+private_ip = "PRIVATE_IP"
 
 resource_pool = "terraform"
 
