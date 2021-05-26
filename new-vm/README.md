@@ -4,7 +4,7 @@ a script for making new vm
 usage: (for running on sindaad cluster)
 
 ```
-ssh root@172.16.10.100 python3 /root/admin/python/new-vm/new-vm.py --bastilion_username="username e man" --bastilion_password="cheshato darvish kon :(" --os <ubuntu/centOS> --hostname my-new-vm-name --ip x.y.z.w
+ssh root@172.16.10.100 python3 /root/admin/python/new-vm/new-vm.py --bastilion_username="USERNAME" --bastilion_password="PASSWORD" --os <ubuntu/centOS> --hostname my-new-vm-name --ip x.y.z.w
 ```
 
 flags:
